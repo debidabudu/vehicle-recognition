@@ -37,8 +37,8 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Object Detection.git
-cd VehicleRecognition
+git clone https://github.com/debidabudu/vehicle-recognition.git
+cd vehicle-recognition
 
 ### Installing Dependencies
 
